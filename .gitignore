@@ -23,3 +23,4 @@ config/waitingtimestats.json
 journeymap
 libraries
 crash-reports
+servers.dat_old
