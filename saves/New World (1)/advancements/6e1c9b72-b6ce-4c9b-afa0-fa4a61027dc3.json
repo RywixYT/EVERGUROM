@@ -1,0 +1,23 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "snowy_coniferous_forest": "2021-10-28 10:40:12 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "meadow": "2021-10-28 11:04:48 +0200",
+      "snowy_coniferous_forest": "2021-10-28 10:40:12 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2021-10-28 11:04:44 +0200",
+      "minecraft:river": "2021-10-28 11:04:21 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
